@@ -1,4 +1,4 @@
-/ *@wi.mainClass BRT-605	Sample java program
+/* @wi.mainClass BRT-605	Sample java program
 	FileName: "helloWorld.java".	*/
 class HelloWorld
 {	
