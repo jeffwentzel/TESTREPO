@@ -1,5 +1,6 @@
-/* 	{ @wi.mainClass BRT-605 Sample java program
-	FileName: "helloWorld.java". } */
+/** 	{ @wi.mainClass BRT-605 Sample java program
+*	FileName: "helloWorld.java". } 
+*/
 class HelloWorld
 {	
 	public static void main(String args[])
