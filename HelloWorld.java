@@ -5,7 +5,9 @@ class HelloWorld
 {	
 	public static void main(String args[])
 	{
-		/** @wi.command BRT-605 words
+		/** {@wi.command BRT-605 words
+		*   some more words}
+		*/
 		System.out.println("Hola");
 	}
 }
