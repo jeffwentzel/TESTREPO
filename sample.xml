@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <head>Test Header</head>
 
-<body <!-- @wi BRT-606 comment about the body --> >
+<body><!-- @wi BRT-606 -->
   sample body words</body>
 </xml>
