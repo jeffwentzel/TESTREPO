@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <head>Test Header</head>
 
-<body><!-- @wi.BodyEdit BRT-606 comment about the body 
-more comment stuff
-even more comments -->
+<body><!-- @wi.BodyEdit BRT-606 comment about the body -->
   sample body words</body>
 </xml>
