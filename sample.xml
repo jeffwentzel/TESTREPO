@@ -2,7 +2,7 @@
     <plugin>
       <groupId>
           <!-- {@wi.groupId_Info BRT-606 you can put a lot of 
-words into the comment 
+words into the comment xyz
 and it can go onto many
 lines, but the user has 
 to use a brace character
