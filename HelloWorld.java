@@ -8,6 +8,6 @@ class HelloWorld
 		/** {@wi.command BRT-607 words
 		*   some more words}
 		*/
-		System.out.println("Hola");
+		System.out.println("Hola Siemens");
 	}
 }
